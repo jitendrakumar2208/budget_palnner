@@ -1,0 +1,23 @@
+.btns {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.app {
+  margin: 15px 5%;
+}
+.app h2 {
+  text-align: center;
+}
+.btn {
+  padding: 15px 18px;
+  background-color: aquamarine;
+  font-size: 22px;
+  border-radius: 8px;
+}
+.input_section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
